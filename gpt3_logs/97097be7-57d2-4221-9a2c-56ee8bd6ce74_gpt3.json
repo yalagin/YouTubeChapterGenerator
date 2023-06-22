@@ -1,0 +1,19 @@
+{
+  "id": "cmpl-7UagFRFprFPyNwCLc36pOoTVkTc7R",
+  "object": "text_completion",
+  "created": 1687525195,
+  "model": "text-davinci-003",
+  "choices": [
+    {
+      "text": "\nStart of the Video - Introduction\n00:00: Introduction - It Used to Be That Kids Wanted to Be\n00:06: Chapter 1 - The Market Has Been Flooded With Poisoned Gadgets\n00:22: Chapter 2 - Kids Tech is a Lot More Interesting Than I Expected\n00:37: Chapter 3 - Plan Toys Vlogger Kit\n00:55: Chapter 4 - VTEC Kitty Zoom Creator Cam\n01:17: Chapter 5 - Leapster Explorer\n01:39: Chapter 6 - LeapPad Academy\n02:02: Chapter 7 - VTEC Kitty Buzz 3\n02:25: Chapter 8 - LOL Surprise Kid Safe Headphones",
+      "index": 0,
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 3049,
+    "completion_tokens": 138,
+    "total_tokens": 3187
+  }
+}

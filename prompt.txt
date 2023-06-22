@@ -1,0 +1,5 @@
+based on the following text create Timestamped Chapters For YouTube Videos using format
+start of the video - chapter name
+
+TRANSCRIPT:
+<<TRANSCRIPT>>
